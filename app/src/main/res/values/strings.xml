@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="error_message"> An error has occurred.</string>
+    <string name="plot_title">PLOT SYNOPSIS</string>
+
+
+</resources>
